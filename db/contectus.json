@@ -1,0 +1,121 @@
+{
+    "_id" : ObjectId("63bd49596a841a29300f4fa5"),
+    "category" : "Trainer",
+    "inquiry" : "Bookings",
+    "name" : "Linus Huffman",
+    "email" : "xujixig@mailinator.com",
+    "message" : "Fugiat fugiat deser",
+    "createdAt" : ISODate("2023-01-10T11:17:45.849+0000"),
+    "updatedAt" : ISODate("2023-01-10T11:17:45.849+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63bd49656a841a29300f4fa7"),
+    "category" : "Trainer",
+    "inquiry" : "Others",
+    "name" : "Leandra Compton",
+    "email" : "pobiqoq@mailinator.com",
+    "message" : "Et est minim vel eli",
+    "createdAt" : ISODate("2023-01-10T11:17:57.696+0000"),
+    "updatedAt" : ISODate("2023-01-10T11:17:57.696+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63bd49736a841a29300f4fa9"),
+    "category" : "Trainer",
+    "inquiry" : "Sapiente exercitatio",
+    "name" : "Jonah Weeks",
+    "email" : "diveqehyxy@mailinator.com",
+    "message" : "Ipsam architecto eli",
+    "createdAt" : ISODate("2023-01-10T11:18:11.347+0000"),
+    "updatedAt" : ISODate("2023-01-10T11:18:11.347+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63be3c565f2a5c1164fba9b9"),
+    "category" : "Gym",
+    "inquiry" : "Bookings",
+    "name" : "Barrett Montoya",
+    "email" : "gydazomymy@mailinator.com",
+    "message" : "Ut totam cupidatat e",
+    "createdAt" : ISODate("2023-01-11T04:34:30.612+0000"),
+    "updatedAt" : ISODate("2023-01-11T04:34:30.612+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63be3c615f2a5c1164fba9bb"),
+    "category" : "Complaint",
+    "inquiry" : "Others",
+    "name" : "Candice Zamora",
+    "email" : "vysocugih@mailinator.com",
+    "message" : "Animi nostrud offic",
+    "createdAt" : ISODate("2023-01-11T04:34:41.078+0000"),
+    "updatedAt" : ISODate("2023-01-11T04:34:41.078+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63be3c6b5f2a5c1164fba9bd"),
+    "category" : "Trainer",
+    "inquiry" : "Miscellaneous",
+    "name" : "Kelly Kemp",
+    "email" : "mymucy@mailinator.com",
+    "message" : "Ipsam aut veniam un",
+    "createdAt" : ISODate("2023-01-11T04:34:51.370+0000"),
+    "updatedAt" : ISODate("2023-01-11T04:34:51.370+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63be3c735f2a5c1164fba9bf"),
+    "category" : "Gym",
+    "inquiry" : "Entry & Exit",
+    "name" : "Cally Peterson",
+    "email" : "weqafakufe@mailinator.com",
+    "message" : "Aut non cupidatat no",
+    "createdAt" : ISODate("2023-01-11T04:34:59.306+0000"),
+    "updatedAt" : ISODate("2023-01-11T04:34:59.306+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63be3c8c5f2a5c1164fba9c1"),
+    "category" : "Complaint",
+    "inquiry" : "Personal",
+    "name" : "Portia Glenn",
+    "email" : "roxeguze@mailinator.com",
+    "message" : "Dolorem nulla eligen",
+    "createdAt" : ISODate("2023-01-11T04:35:24.267+0000"),
+    "updatedAt" : ISODate("2023-01-11T04:35:24.267+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d0af0d028c0d093362cf0b"),
+    "category" : "Gym",
+    "inquiry" : "Gym Related",
+    "name" : "meet j patel 2525",
+    "email" : "meetpatel@gmail.com",
+    "message" : "gym is not good meet 25252",
+    "createdAt" : ISODate("2023-01-25T04:24:45.897+0000"),
+    "updatedAt" : ISODate("2023-01-25T04:24:45.897+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d2503bac5e07f7211c7328"),
+    "category" : "Complaint",
+    "inquiry" : "Gym Related",
+    "name" : "ff",
+    "email" : "meet.smarttechnica@gmail.com",
+    "message" : "ff",
+    "createdAt" : ISODate("2023-01-26T10:04:43.540+0000"),
+    "updatedAt" : ISODate("2023-01-26T10:04:43.540+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d74b7ccbac5d0731e9d779"),
+    "category" : "Complaint",
+    "inquiry" : "Bookings",
+    "name" : "The booking is not working yet. It's a testing complaint",
+    "email" : "ootis548@gmail.com",
+    "message" : "Lorem ipsum",
+    "createdAt" : ISODate("2023-01-30T04:45:48.849+0000"),
+    "updatedAt" : ISODate("2023-01-30T04:45:48.849+0000"),
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,62 @@
+{
+    "_id" : ObjectId("63d25eb1ac5e07f7211c7432"),
+    "data" : {
+        "email" : "gimihiwu@mailinator.com",
+        "password" : "$2a$10$OUc6WNQ7AnyvjiseD6UaK.Py9FsjbJQSUKrlYCrYOVX.irpUjnZHu",
+        "confirmpassword" : "$2a$10$/IqJoBDfDwEjfjnRBDzvduAQMUyr1BUsBTqXwA4eI6RTahOfT054S",
+        "tandc" : true,
+        "firstname" : "Kerry",
+        "lastname" : "Douglas",
+        "gender" : "Female",
+        "birthday" : "2023-01-03",
+        "phone" : "3",
+        "profileimg" : [
+            "1674731184357_no-scroll-logo.png"
+        ],
+        "idproofimg" : [
+            "1674731184358_1674704867622_1674649027650_a.doc.doc"
+        ],
+        "GymRentalRate" : "3",
+        "Closest Metro station" : "jjj",
+        "Please share with us if there are any other comments." : "",
+        "Are you a Personal Trainer and also provide Personal Training services" : "No/Skip",
+        "gymName" : "Aspernatur aliqua B",
+        "gymAddress" : "Incidunt dolor haru",
+        "Gym Access Information " : "Qui ut voluptatem do",
+        "starttime" : "12:00",
+        "endtime" : "20:15",
+        "Operating Days" : [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "gymImg" : [
+            "1674731185115_icon-email.png"
+        ],
+        "Please select the equipment in your gym" : [
+            "Power Rack",
+            "Smith Machine",
+            "Barbell"
+        ],
+        "Please select the facilities in your gym" : [
+            "Security Camera",
+            "Towel",
+            "Weighing Scale",
+            "Shower"
+        ],
+        "gymAccessImg" : [
+            "1674731185115_img-01.png",
+            "1674731185382_make-right-box2.png",
+            "1674731185407_make-right-box3.png"
+        ],
+        "Other rules" : [
+            "No Photography",
+            "No Smoking",
+            "No Eating"
+        ]
+    },
+    "userStatus" : true,
+    "createdAt" : ISODate("2023-01-26T11:06:25.727+0000"),
+    "updatedAt" : ISODate("2023-01-26T11:06:25.727+0000"),
+    "__v" : NumberInt(0)
+}

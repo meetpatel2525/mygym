@@ -1,0 +1,85 @@
+{
+    "_id" : ObjectId("63d24a39ac5e07f7211c726f"),
+    "data" : {
+        "email" : "mihamuto@mailinator.com",
+        "password" : "$2a$10$w4bBIvztulxc0Agv8S5Sf.fRlsSUDVeOjyvu6mnAD9BHop3JNudUC",
+        "confirmpassword" : "$2a$10$M6tuhmv0nShB0ygSDmzv0.wzztBmzRBSuTJOjCacYNyi09foF06H.",
+        "tandc" : true,
+        "firstname" : "Kylie",
+        "lastname" : "Joyce",
+        "phone" : "44",
+        "Experience Level" : "Intermediate",
+        "Would you like to customise your preferred training equipment now" : "Yes",
+        "Are you looking for a Personal Trainer?" : "Yes",
+        "gender" : "pppp",
+        "profileimg" : [
+            "1674725944470_header-logo.png"
+        ],
+        "idproofimg" : [
+            "1674725944471_what-our-slider.png"
+        ],
+        "birthday" : "2023-01-02",
+        "What training would you like to do?" : [
+            "Strength and Conditioning",
+            "Yoga",
+            "Pilates"
+        ],
+        "What equipment would you like to use?" : [
+            "Power Rack",
+            "Smith Machine",
+            "Barbell"
+        ],
+        "Select your preferred areas" : [
+            "Tokyo",
+            "Chiyoda",
+            "Chuo"
+        ]
+    },
+    "userStatus" : true,
+    "createdAt" : ISODate("2023-01-26T09:39:05.607+0000"),
+    "updatedAt" : ISODate("2023-01-26T09:39:05.607+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d256a9ac5e07f7211c7342"),
+    "data" : {
+        "email" : "qahedegod@mailinator.com",
+        "password" : "$2a$10$P0iZe.AytdEst7ojHOe0puLPDQ0HtxfenIp.VTkMmZ8gGDVhWTZHG",
+        "confirmpassword" : "$2a$10$19vX3054igWrTnEv8YArzeMfHIs0yHY3qzxkPWtxVzxiekFoXwO8W",
+        "tandc" : true,
+        "firstname" : "Kessie",
+        "lastname" : "Pitts",
+        "phone" : "73",
+        "Experience Level" : "Expert",
+        "Would you like to customise your preferred training equipment now" : "Yes",
+        "Are you looking for a Personal Trainer?" : "Yes",
+        "gender" : "Male",
+        "birthday" : "2023-01-02",
+        "profileimg" : [
+            "1674729128374_featured-trainers-4.png"
+        ],
+        "idproofimg" : [
+            "1674729128921_1674649027650_a.doc (1).doc"
+        ],
+        "What training would you like to do?" : [
+            "Strength and Conditioning",
+            "Yoga",
+            "Pilates",
+            "High Intensity Interval Training "
+        ],
+        "What equipment would you like to use?" : [
+            "Power Rack",
+            "Smith Machine",
+            "Barbell"
+        ],
+        "Select your preferred areas" : [
+            "Tokyo",
+            "Chiyoda",
+            "Chuo"
+        ]
+    },
+    "userStatus" : true,
+    "createdAt" : ISODate("2023-01-26T10:32:09.282+0000"),
+    "updatedAt" : ISODate("2023-01-26T10:32:09.282+0000"),
+    "__v" : NumberInt(0)
+}

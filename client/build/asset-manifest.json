@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d42a5a24.css",
+    "main.js": "/static/js/main.1ed60191.js",
+    "static/js/787.4159b215.chunk.js": "/static/js/787.4159b215.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.21190e921f4ddba9919b.jpg",
+    "static/media/map-bg.png": "/static/media/map-bg.161dd8f2c8e67af75dc1.png",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.9e1ca243e77c24a5532b.jpg",
+    "static/media/featured-trainers-bg.jpg": "/static/media/featured-trainers-bg.bb418b3de1c84398b55d.jpg",
+    "static/media/what-our-client-bg.jpg": "/static/media/what-our-client-bg.48dca59ac4da707e7e4a.jpg",
+    "static/media/trainer-banner-03.jpg": "/static/media/trainer-banner-03.de51a0a7a36f92edf40b.jpg",
+    "static/media/trainer-banner.png": "/static/media/trainer-banner.389f45bdd2b50c37b468.png",
+    "static/media/faq-bg.png": "/static/media/faq-bg.bb357bdf0466fc0118c6.png",
+    "static/media/img-04.png": "/static/media/img-04.00a88d72f96a6f535471.png",
+    "static/media/img-01.png": "/static/media/img-01.39cb86383f42bf3a7610.png",
+    "static/media/img-02.png": "/static/media/img-02.9afd5f18f65b98a2bcfd.png",
+    "static/media/img-05.png": "/static/media/img-05.b84399179e101fe0eea3.png",
+    "static/media/trainer-banner-02.jpg": "/static/media/trainer-banner-02.0b95541d016d985643db.jpg",
+    "static/media/make-right-box2.png": "/static/media/make-right-box2.ef11e04038e1e339f711.png",
+    "static/media/img-06.png": "/static/media/img-06.7e2ad23f8641a9558d99.png",
+    "static/media/make-right-box1.png": "/static/media/make-right-box1.8ad8ec599dc489407b75.png",
+    "static/media/featured-trainers-3.png": "/static/media/featured-trainers-3.3605570e98fd4a3ea5f4.png",
+    "static/media/featured-trainers-1.png": "/static/media/featured-trainers-1.ce6e1a0bc88c69ec75f0.png",
+    "static/media/make-right-box3.png": "/static/media/make-right-box3.15515baf487fd807039e.png",
+    "static/media/featured-trainers-4.png": "/static/media/featured-trainers-4.500c1778d3104226c53e.png",
+    "static/media/what-our-slider.png": "/static/media/what-our-slider.1d9f32bf9801557cd2b8.png",
+    "static/media/featured-trainers-5.png": "/static/media/featured-trainers-5.04bec8cbe82fab8573ad.png",
+    "static/media/featured-trainers-2.png": "/static/media/featured-trainers-2.e4b88f4eafe1e3a3d5fb.png",
+    "static/media/img-03.png": "/static/media/img-03.ad5b2f7e9548a6d3043b.png",
+    "static/media/make-movement-happen-bg.png": "/static/media/make-movement-happen-bg.6d6b957564ec81f91b7e.png",
+    "static/media/make-movement-right-bg.png": "/static/media/make-movement-right-bg.1765e34f3e3f12bc89cd.png",
+    "static/media/user.png": "/static/media/user.4d0f2d2295875e16e8fd.png",
+    "static/media/banner-overlay-content.png": "/static/media/banner-overlay-content.8e1b8f676286bc1721d6.png",
+    "index.html": "/index.html",
+    "main.d42a5a24.css.map": "/static/css/main.d42a5a24.css.map",
+    "main.1ed60191.js.map": "/static/js/main.1ed60191.js.map",
+    "787.4159b215.chunk.js.map": "/static/js/787.4159b215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42a5a24.css",
+    "static/js/main.1ed60191.js"
+  ]
+}

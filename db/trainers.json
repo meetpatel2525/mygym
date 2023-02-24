@@ -1,0 +1,169 @@
+{
+    "_id" : ObjectId("63d1f7e47a203aedcf4acae8"),
+    "data" : {
+        "email" : "vesuxex@mailinator.com",
+        "password" : "$2a$10$auyJjGcGDaIDu94HJzb7te5R.HHPF8k7ekkFh6y4SqAvRxFp77xuC",
+        "confirmpassword" : "$2a$10$NYOZkpUqPeHNCrWsW8JREOKuuVIGslg8695Y1y.OFPl5jVpYlOWYm",
+        "tandc" : true,
+        "firstname" : "Carl",
+        "lastname" : "Eaton",
+        "gender" : "",
+        "birthday" : "2023-01-02",
+        "phone" : "27",
+        "profileimg" : [
+            "1674704867098_what-our-slider.png"
+        ],
+        "idproofimg" : [
+            "1674704867622_1674649027650_a.doc.doc",
+            "1674704867896_BlockChain-Page-1.drawio (1).png"
+        ],
+        "Specialization" : [
+            " Strength and Conditioning",
+            "Yoga",
+            "Pilates"
+        ],
+        "Qualifications" : [
+            "JATI-ATI",
+            "JATI-AATI",
+            "JATI-SATI"
+        ],
+        "Working Days" : [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "starttime" : "20:00",
+        "endtime" : "13:00",
+        "personaltrainingrate" : "6",
+        "Please share any awards that you have received" : "Sed in similique iru",
+        "Please share with us if there are any other comments." : "Occaecat optio maio",
+        "Do you also provide gym rental services?" : "Yes",
+        "Other instructions (Can be updated later on profile page)" : "Mollitia ipsa cum",
+        "select your preferred areas" : [
+            "Tokyo",
+            "Chiyoda",
+            "Chuo"
+        ]
+    },
+    "userStatus" : true,
+    "createdAt" : ISODate("2023-01-26T03:47:48.260+0000"),
+    "updatedAt" : ISODate("2023-01-26T03:47:48.260+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d2597fac5e07f7211c734f"),
+    "data" : {
+        "email" : "kuqemonyv@mailinator.com",
+        "password" : "$2a$10$CPuPaQhDenUJJF1zyTwW4eLyRaE4L.aK44HkTEgVDZlF62Gv/MsdC",
+        "confirmpassword" : "$2a$10$PfA6BKzMBk78dUwKY.B0IeA4mlf0s/5Jfq/eexCOgxIZpaUxVpyT6",
+        "tandc" : true,
+        "firstname" : "Brandon",
+        "lastname" : "Abbott",
+        "phone" : "93",
+        "personaltrainingrate" : "98",
+        "Please share with us if there are any other comments." : "Magnam sint ut cons",
+        "Do you also provide gym rental services?" : "Yes",
+        "Please share any awards that you have received" : "Rerum molestiae volu",
+        "Other instructions (Can be updated later on profile page)" : "Esse eligendi non au",
+        "gender" : "Male",
+        "starttime" : "17:00",
+        "endtime" : "17:15",
+        "birthday" : "2023-01-10",
+        "profileimg" : [
+            "1674729854090_featured-trainers-1.png"
+        ],
+        "idproofimg" : [
+            "1674729854630_1674704867622_1674649027650_a.doc.doc",
+            "1674729855138_gymbooking_1 (1).png"
+        ],
+        "Specialization" : [
+            " Strength and Conditioning",
+            "Yoga",
+            "Pilates",
+            "High Intensity Interval Training (HIIT)"
+        ],
+        "Qualifications" : [
+            "JATI-ATI",
+            "JATI-AATI",
+            "JATI-SATI",
+            "NESTA-PFT"
+        ],
+        "Working Days" : [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "select your preferred areas" : [
+            "Tokyo",
+            "Chiyoda",
+            "Chuo",
+            "Minato",
+            "Shinjuku"
+        ]
+    },
+    "userStatus" : true,
+    "createdAt" : ISODate("2023-01-26T10:44:15.263+0000"),
+    "updatedAt" : ISODate("2023-01-26T10:44:15.263+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d25d4eac5e07f7211c7425"),
+    "data" : {
+        "email" : "sevynu@mailinator.com",
+        "password" : "$2a$10$06mv3LA..5g2EexB3PqLG.6xXJWTR3siua4UP01.horUnS8DKnauS",
+        "confirmpassword" : "$2a$10$f1MGc2xty54DgKVFpCFGGOAAoIFWKDgFa30uigrnrXg/1RcQUTK0a",
+        "tandc" : true,
+        "firstname" : "Nadine",
+        "lastname" : "Perez",
+        "phone" : "74",
+        "personaltrainingrate" : "58",
+        "Please share with us if there are any other comments." : "",
+        "Do you also provide gym rental services?" : "Yes",
+        "Please share any awards that you have received" : "",
+        "Other instructions (Can be updated later on profile page)" : "",
+        "gender" : "pppp",
+        "starttime" : "20:00",
+        "endtime" : "05:30",
+        "birthday" : "2023-01-02",
+        "profileimg" : [
+            "1674730829488_featured-trainers-3.png"
+        ],
+        "idproofimg" : [
+            "1674730830065_1674649027650_a.doc (1).doc"
+        ],
+        "Working Days" : [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "Qualifications" : [
+            "JATI-ATI",
+            "JATI-AATI",
+            "JATI-SATI",
+            "NESTA-PFT",
+            "NSCA-CPT"
+        ],
+        "Specialization" : [
+            " Strength and Conditioning",
+            "Yoga",
+            "Pilates",
+            "High Intensity Interval Training (HIIT)",
+            " Performance Enhancement",
+            "Women's Fitness"
+        ],
+        "select your preferred areas" : [
+            "Tokyo",
+            "Chiyoda",
+            "Chuo",
+            "Minato",
+            "Shinjuku"
+        ]
+    },
+    "userStatus" : true,
+    "createdAt" : ISODate("2023-01-26T11:00:30.687+0000"),
+    "updatedAt" : ISODate("2023-01-26T11:00:30.687+0000"),
+    "__v" : NumberInt(0)
+}

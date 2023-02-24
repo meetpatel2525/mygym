@@ -1,0 +1,154 @@
+{
+    "_id" : ObjectId("637cb048291d485bbe92733e"),
+    "equipmentName" : "Power Rackyy",
+    "createdAt" : ISODate("2022-11-22T11:19:36.902+0000"),
+    "updatedAt" : ISODate("2023-01-03T12:21:26.661+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb053291d485bbe927343"),
+    "equipmentName" : "Smith Machine",
+    "createdAt" : ISODate("2022-11-22T11:19:47.575+0000"),
+    "updatedAt" : ISODate("2022-12-19T08:20:28.376+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb05d291d485bbe927348"),
+    "equipmentName" : "Barbell",
+    "createdAt" : ISODate("2022-11-22T11:19:57.471+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:19:57.471+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb065291d485bbe92734d"),
+    "equipmentName" : "Training bench",
+    "createdAt" : ISODate("2022-11-22T11:20:05.698+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:20:05.698+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb06f291d485bbe927352"),
+    "equipmentName" : "Dumbbell set (Max weight)",
+    "createdAt" : ISODate("2022-11-22T11:20:15.663+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:20:15.663+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb076291d485bbe927357"),
+    "equipmentName" : "Cable machine",
+    "createdAt" : ISODate("2022-11-22T11:20:22.719+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:20:22.719+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb07d291d485bbe92735c"),
+    "equipmentName" : "Massage bed",
+    "createdAt" : ISODate("2022-11-22T11:20:29.062+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:20:29.062+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb088291d485bbe927361"),
+    "equipmentName" : "Yoga mat (Quantity)",
+    "createdAt" : ISODate("2022-11-22T11:20:40.207+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:20:40.207+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0a2291d485bbe927368"),
+    "equipmentName" : "Yoga block (Quantity)",
+    "createdAt" : ISODate("2022-11-22T11:21:06.027+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:21:06.027+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0ab291d485bbe92736d"),
+    "equipmentName" : "Tube/Resistance band",
+    "createdAt" : ISODate("2022-11-22T11:21:15.403+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:21:15.403+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0b2291d485bbe927372"),
+    "equipmentName" : "TRX",
+    "createdAt" : ISODate("2022-11-22T11:21:22.239+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:21:22.239+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0c0291d485bbe927377"),
+    "equipmentName" : " Stationary Bicycle (Quantity)",
+    "createdAt" : ISODate("2022-11-22T11:21:36.293+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:21:36.293+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0ca291d485bbe92737c"),
+    "equipmentName" : " Treadmill (Quantity)",
+    "createdAt" : ISODate("2022-11-22T11:21:46.521+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:21:46.521+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0d6291d485bbe927383"),
+    "equipmentName" : "Kettlebell (Max weight)",
+    "createdAt" : ISODate("2022-11-22T11:21:58.964+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:21:58.964+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0e5291d485bbe92738a"),
+    "equipmentName" : "BOSU Ball",
+    "createdAt" : ISODate("2022-11-22T11:22:13.568+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:22:13.568+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0f4291d485bbe92738f"),
+    "equipmentName" : "Elliptical (Quantity)",
+    "createdAt" : ISODate("2022-11-22T11:22:28.239+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:22:28.239+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb0fc291d485bbe927394"),
+    "equipmentName" : "Foam Roller",
+    "createdAt" : ISODate("2022-11-22T11:22:36.872+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:22:36.872+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb104291d485bbe927399"),
+    "equipmentName" : "Rowing Machine",
+    "createdAt" : ISODate("2022-11-22T11:22:44.986+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:22:44.986+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb10f291d485bbe9273a0"),
+    "equipmentName" : "Pull up Bar",
+    "createdAt" : ISODate("2022-11-22T11:22:55.824+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:22:55.824+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb116291d485bbe9273a5"),
+    "equipmentName" : "Medicine Ball (Max weight)",
+    "createdAt" : ISODate("2022-11-22T11:23:02.630+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:23:02.630+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb11e291d485bbe9273aa"),
+    "equipmentName" : "Skipping Rope",
+    "createdAt" : ISODate("2022-11-22T11:23:10.926+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:23:10.926+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637cb128291d485bbe9273af"),
+    "equipmentName" : "Others (short answer text)",
+    "createdAt" : ISODate("2022-11-22T11:23:20.722+0000"),
+    "updatedAt" : ISODate("2022-11-22T11:23:20.722+0000"),
+    "__v" : NumberInt(0)
+}

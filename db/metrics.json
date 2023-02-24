@@ -1,0 +1,240 @@
+{
+    "_id" : ObjectId("63a525c70446ede4ef46d66e"),
+    "metricsName" : "Gym_booking_hours",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:51:35.621+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:28:33.750+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a525ed0446ede4ef46d671"),
+    "metricsName" : "Matching_hours",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:52:13.891+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:09.119+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526260446ede4ef46d674"),
+    "metricsName" : "No_of_Gym_bookings",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:53:10.419+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:28:36.020+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526430446ede4ef46d677"),
+    "metricsName" : "No_of_Matching_bookings",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:53:39.133+0000"),
+    "updatedAt" : ISODate("2023-01-03T12:15:55.279+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5265c0446ede4ef46d67a"),
+    "metricsName" : "No_of_Active_Gym_bookings",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:54:04.060+0000"),
+    "updatedAt" : ISODate("2023-01-03T12:15:53.951+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526780446ede4ef46d67d"),
+    "metricsName" : "No_of_Active_Matching_bookings",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:54:32.358+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:28:37.492+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526a00446ede4ef46d680"),
+    "metricsName" : "Delivery_Bookings_Cancellations",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:55:12.655+0000"),
+    "updatedAt" : ISODate("2023-01-03T12:11:43.631+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526c40446ede4ef46d683"),
+    "metricsName" : "Matching_Bookings_Cancellations",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:55:48.197+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:28:45.610+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526de0446ede4ef46d686"),
+    "metricsName" : "Gym_Booking_Cancellations",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:56:14.959+0000"),
+    "updatedAt" : ISODate("2023-01-03T12:11:45.862+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a526fc0446ede4ef46d689"),
+    "metricsName" : "Gym_Inquiries",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:56:44.256+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:30.983+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527130446ede4ef46d68c"),
+    "metricsName" : "Trainer_Inquiries",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:57:07.229+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:33.175+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527250446ede4ef46d68f"),
+    "metricsName" : "Complaints",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:57:25.666+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:31.910+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5273f0446ede4ef46d692"),
+    "metricsName" : "Delivery_Profit",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:57:51.873+0000"),
+    "updatedAt" : ISODate("2023-01-04T05:59:58.070+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527510446ede4ef46d695"),
+    "metricsName" : "Matching_Profit",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:58:09.205+0000"),
+    "updatedAt" : ISODate("2023-01-11T12:42:27.229+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527660446ede4ef46d698"),
+    "metricsName" : "Gym_Bookings_Profit",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:58:30.997+0000"),
+    "updatedAt" : ISODate("2023-01-11T12:42:29.228+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527780446ede4ef46d69b"),
+    "metricsName" : "Total_Profit",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:58:48.154+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:01.342+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5279e0446ede4ef46d69e"),
+    "metricsName" : "Delivery_Revenue",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:59:26.216+0000"),
+    "updatedAt" : ISODate("2023-01-11T08:13:39.219+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527ad0446ede4ef46d6a1"),
+    "metricsName" : "Matching_Revenue",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T03:59:41.638+0000"),
+    "updatedAt" : ISODate("2023-01-10T13:17:13.829+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527be0446ede4ef46d6a4"),
+    "metricsName" : "Gym_Bookings_Revenue",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T03:59:58.933+0000"),
+    "updatedAt" : ISODate("2023-01-11T12:30:46.394+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a527d20446ede4ef46d6a7"),
+    "metricsName" : "Total_Revenue",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T04:00:18.733+0000"),
+    "updatedAt" : ISODate("2023-01-04T05:59:52.814+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5280c0446ede4ef46d6aa"),
+    "metricsName" : "Gym_owners",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T04:01:16.989+0000"),
+    "updatedAt" : ISODate("2023-01-20T09:21:39.170+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5281f0446ede4ef46d6ad"),
+    "metricsName" : "Gyms",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T04:01:35.408+0000"),
+    "updatedAt" : ISODate("2023-01-20T09:21:26.039+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a528300446ede4ef46d6b2"),
+    "metricsName" : "Trainers",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T04:01:52.459+0000"),
+    "updatedAt" : ISODate("2023-01-20T09:21:16.769+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5283e0446ede4ef46d6b5"),
+    "metricsName" : "Users",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T04:02:06.259+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:41.647+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a5284b0446ede4ef46d6b8"),
+    "metricsName" : "Active_Gyms",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T04:02:19.248+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:28:50.385+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a528630446ede4ef46d6bb"),
+    "metricsName" : "Active_Trainers",
+    "metricsStatus" : true,
+    "createdAt" : ISODate("2022-12-23T04:02:43.442+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:00:44.455+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a528770446ede4ef46d6be"),
+    "metricsName" : "Active_Users",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T04:03:03.401+0000"),
+    "updatedAt" : ISODate("2023-01-20T09:21:04.753+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a528880446ede4ef46d6c1"),
+    "metricsName" : "New_Gyms",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T04:03:20.088+0000"),
+    "updatedAt" : ISODate("2023-01-04T06:28:52.259+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a528990446ede4ef46d6c4"),
+    "metricsName" : "New_Trainers",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T04:03:37.225+0000"),
+    "updatedAt" : ISODate("2023-01-20T09:21:06.183+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63a528af0446ede4ef46d6c7"),
+    "metricsName" : "New_Users",
+    "metricsStatus" : false,
+    "createdAt" : ISODate("2022-12-23T04:03:59.647+0000"),
+    "updatedAt" : ISODate("2023-01-20T09:21:03.415+0000"),
+    "__v" : NumberInt(0)
+}

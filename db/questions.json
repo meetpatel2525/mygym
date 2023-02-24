@@ -1,0 +1,415 @@
+{
+    "_id" : ObjectId("6381eadac5428fb0b0cbfa77"),
+    "questionText" : "Would you like to customise your preferred training equipment now",
+    "questionType" : "Radio_Button",
+    "options" : [
+        "Yes",
+        "No / Skip"
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Your preferred training equipment",
+    "createdAt" : ISODate("2022-11-26T10:30:50.345+0000"),
+    "updatedAt" : ISODate("2023-01-12T10:17:29.048+0000"),
+    "__v" : NumberInt(0),
+    "userType" : "user"
+}
+{
+    "_id" : ObjectId("638ddabff710e06c5f3b8da0"),
+    "questionText" : "Specialization",
+    "userType" : "treiner",
+    "questionType" : "Check_Box",
+    "options" : [
+        " Strength and Conditioning",
+        "Yoga",
+        "Pilates",
+        "High Intensity Interval Training (HIIT)",
+        "Dance Fitness",
+        "Crossfit",
+        "Boxing/Kickboxing",
+        "Senior Fitness",
+        "Weight Loss",
+        "Body Building",
+        "Corrective Exercise",
+        "Nutrition",
+        "Stretching and Flexibility",
+        " Performance Enhancement",
+        "Women's Fitness",
+        "MMA Conditioning",
+        "Golf Fitness"
+    ],
+    "stepNo" : "3",
+    "placeholder" : "Select specialization",
+    "createdAt" : ISODate("2022-12-05T11:49:19.212+0000"),
+    "updatedAt" : ISODate("2022-12-27T09:06:09.254+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("638ddbf6f710e06c5f3b8daf"),
+    "questionText" : "Qualifications",
+    "userType" : "treiner",
+    "questionType" : "Check_Box",
+    "options" : [
+        "JATI-ATI",
+        "JATI-AATI",
+        "JATI-SATI",
+        "NESTA-PFT",
+        "NSCA-CPT",
+        "NSCA-CSCS",
+        "NASM-CPT",
+        "NASM-CSAC",
+        "ACSM-CPT",
+        "JHCA-FC",
+        "JHCA-HC",
+        "JHCA-HCAD",
+        "JHCA-SC",
+        "NSPA-CPT",
+        "NSPA-CCS",
+        "NSPA-CSAC",
+        "NATA-ATC",
+        "JSPO-SP",
+        "JSPO-FT",
+        "JSPO-AT",
+        "NPCP-NCPT",
+        "PEAK Pilates Certified Instructor",
+        "STOTT Pilates Certified Instructor",
+        "BASI Pilates Instructor",
+        "Balanced Body Pilates Instructor"
+    ],
+    "stepNo" : "3",
+    "placeholder" : "Select qualifications",
+    "createdAt" : ISODate("2022-12-05T11:54:30.457+0000"),
+    "updatedAt" : ISODate("2023-01-16T05:52:16.262+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("638ddcb0f710e06c5f3b8db9"),
+    "questionText" : "Please share any awards that you have received",
+    "userType" : "treiner",
+    "questionType" : "Textarea",
+    "options" : [
+
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Please share any awards ...",
+    "createdAt" : ISODate("2022-12-05T11:57:36.417+0000"),
+    "updatedAt" : ISODate("2023-01-26T04:15:42.431+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("638ddccbf710e06c5f3b8dbe"),
+    "questionText" : "Other instructions (Can be updated later on profile page)",
+    "userType" : "treiner",
+    "questionType" : "Textarea",
+    "options" : [
+
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Other instructions ...",
+    "createdAt" : ISODate("2022-12-05T11:58:03.224+0000"),
+    "updatedAt" : ISODate("2023-01-13T05:34:10.919+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("638ddcfff710e06c5f3b8dc3"),
+    "questionText" : "Please share with us if there are any other comments.",
+    "userType" : "treiner",
+    "questionType" : "Text",
+    "options" : [
+
+    ],
+    "stepNo" : "5",
+    "placeholder" : "Please share comments ...",
+    "createdAt" : ISODate("2022-12-05T11:58:55.048+0000"),
+    "updatedAt" : ISODate("2022-12-06T05:31:59.001+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("638ddd55f710e06c5f3b8dc8"),
+    "questionText" : "Do you also provide gym rental services?",
+    "userType" : "treiner",
+    "questionType" : "Radio_Button",
+    "options" : [
+        "Yes",
+        "No/Skip"
+    ],
+    "stepNo" : "5",
+    "placeholder" : "Select gym rental service...",
+    "createdAt" : ISODate("2022-12-05T12:00:21.120+0000"),
+    "updatedAt" : ISODate("2023-01-12T10:17:55.781+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63982413df9a44db301eae9d"),
+    "questionText" : "Operating Days",
+    "userType" : "owner",
+    "questionType" : "Check_Box",
+    "options" : [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Public Holidays"
+    ],
+    "stepNo" : "3",
+    "placeholder" : "Select Operating Days",
+    "createdAt" : ISODate("2022-12-13T07:04:51.917+0000"),
+    "updatedAt" : ISODate("2023-01-11T09:30:22.526+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6398297fdf9a44db301eaea9"),
+    "questionText" : "Please select the equipment in your gym",
+    "userType" : "owner",
+    "questionType" : "Check_Box",
+    "options" : [
+        "Power Rack",
+        "Smith Machine",
+        "Barbell",
+        "Training bench",
+        "Dumbbell set",
+        "Cable machine",
+        "Massage bed",
+        "Yoga mat",
+        "Yoga block",
+        "Tube/Resistance band",
+        "TRX",
+        "Stationary Bicycle",
+        "Treadmill",
+        "Kettlebell",
+        "BOSU Ball",
+        "Elliptical",
+        "Foam Roller",
+        "Rowing machine",
+        "Pull up bar",
+        "Medicine ball",
+        "Skipping rope"
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Select equipment",
+    "createdAt" : ISODate("2022-12-13T07:27:59.998+0000"),
+    "updatedAt" : ISODate("2023-01-12T10:18:31.720+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63984334df9a44db301eaeb6"),
+    "questionText" : "Please select the facilities in your gym",
+    "userType" : "owner",
+    "questionType" : "Check_Box",
+    "options" : [
+        "Security Camera",
+        "Towel",
+        "Weighing Scale",
+        "Shower",
+        "Water Cooler",
+        "Trash Bin",
+        "Room Shoes",
+        "Room Clothes",
+        "Wifi",
+        "Beverage Sales",
+        "Changing Room",
+        "Aircon",
+        "Speaker",
+        "Lockers",
+        "Toilet",
+        "Digital Lock",
+        "Key Lock/ Key card"
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Select facilities ",
+    "createdAt" : ISODate("2022-12-13T09:17:40.133+0000"),
+    "updatedAt" : ISODate("2023-01-26T04:32:47.130+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63984395df9a44db301eaebd"),
+    "questionText" : "Gym Access Information ",
+    "userType" : "owner",
+    "questionType" : "Textarea",
+    "options" : [
+
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Gym access information...",
+    "createdAt" : ISODate("2022-12-13T09:19:17.421+0000"),
+    "updatedAt" : ISODate("2023-01-26T04:33:54.957+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("639843bfdf9a44db301eaec2"),
+    "questionText" : "Closest Metro station",
+    "userType" : "owner",
+    "questionType" : "Text",
+    "options" : [
+
+    ],
+    "stepNo" : "5",
+    "placeholder" : "Enter closest metro station...",
+    "createdAt" : ISODate("2022-12-13T09:19:59.855+0000"),
+    "updatedAt" : ISODate("2022-12-30T05:20:26.110+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("639847c4df9a44db301eaec7"),
+    "questionText" : "Other rules",
+    "userType" : "owner",
+    "questionType" : "Check_Box",
+    "options" : [
+        "No Photography",
+        "No Smoking",
+        "No Eating",
+        "Women Only"
+    ],
+    "stepNo" : "5",
+    "placeholder" : "Select other rules...",
+    "createdAt" : ISODate("2022-12-13T09:37:08.455+0000"),
+    "updatedAt" : ISODate("2022-12-26T11:38:36.271+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6398498edf9a44db301eaece"),
+    "questionText" : "Please share with us if there are any other comments.",
+    "userType" : "owner",
+    "questionType" : "Text",
+    "options" : [
+
+    ],
+    "stepNo" : "5",
+    "placeholder" : " Any other comments...",
+    "createdAt" : ISODate("2022-12-13T09:44:46.216+0000"),
+    "updatedAt" : ISODate("2022-12-13T09:44:46.216+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63984a26df9a44db301eaed3"),
+    "questionText" : "Are you a Personal Trainer and also provide Personal Training services",
+    "userType" : "owner",
+    "questionType" : "Radio_Button",
+    "options" : [
+        "Yes",
+        "No/Skip"
+    ],
+    "stepNo" : "5",
+    "placeholder" : "Are you a personal trainer ",
+    "createdAt" : ISODate("2022-12-13T09:47:18.676+0000"),
+    "updatedAt" : ISODate("2022-12-30T05:23:08.907+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63c4e6abc4b298a48fad34c8"),
+    "questionText" : "Working Days",
+    "userType" : "treiner",
+    "questionType" : "Check_Box",
+    "options" : [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Public Holidays"
+    ],
+    "stepNo" : "3",
+    "placeholder" : "Select working days",
+    "createdAt" : ISODate("2023-01-16T05:54:51.647+0000"),
+    "updatedAt" : ISODate("2023-01-16T05:54:51.647+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63c780a72c584c09efa63843"),
+    "questionText" : "What equipment would you like to use?",
+    "userType" : "user",
+    "questionType" : "Check_Box",
+    "options" : [
+        "Power Rack",
+        "Smith Machine",
+        "Barbell",
+        "Training bench",
+        "Dumbbell set",
+        "Cable machine",
+        "Massage bed",
+        "Yoga mat",
+        "Yoga block",
+        "Tube/Resistance band",
+        "TRX",
+        "Stationary Bicycle",
+        "Treadmill",
+        "Kettlebell",
+        "BOSU Ball",
+        "Elliptical",
+        "Foam Roller",
+        "Rowing Machine",
+        "Pull up Bar",
+        "Medicine Ball",
+        "Skipping Rope"
+    ],
+    "stepNo" : "4",
+    "placeholder" : "Select your preferred equipment",
+    "createdAt" : ISODate("2023-01-18T05:16:23.497+0000"),
+    "updatedAt" : ISODate("2023-01-18T05:20:15.321+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63c782762c584c09efa6384b"),
+    "questionText" : "Are you looking for a Personal Trainer?",
+    "userType" : "user",
+    "questionType" : "Radio_Button",
+    "options" : [
+        "Yes",
+        "No / Skip"
+    ],
+    "stepNo" : "5",
+    "placeholder" : "Personal Trainer",
+    "createdAt" : ISODate("2023-01-18T05:24:06.081+0000"),
+    "updatedAt" : ISODate("2023-01-25T05:58:07.748+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d10861589e73f8a622cdb1"),
+    "questionText" : "Experience Level",
+    "userType" : "user",
+    "questionType" : "Radio_Button",
+    "options" : [
+        "Beginner",
+        "Intermediate",
+        "Expert"
+    ],
+    "stepNo" : "3",
+    "placeholder" : "Select   experience Level",
+    "createdAt" : ISODate("2023-01-25T10:45:53.568+0000"),
+    "updatedAt" : ISODate("2023-01-25T10:45:53.568+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d10c74589e73f8a622cdd6"),
+    "questionText" : "What training would you like to do?",
+    "userType" : "user",
+    "questionType" : "Check_Box",
+    "options" : [
+        "Strength and Conditioning",
+        "Yoga",
+        "Pilates",
+        "High Intensity Interval Training ",
+        "Dance Fitness",
+        "Crossfit",
+        "Boxing/Kickboxing",
+        "Senior Fitness",
+        "Weight Loss",
+        "Body Building",
+        "Corrective Exercise",
+        "Nutrition",
+        "Stretching and Flexibility",
+        "Performance Enhancement",
+        "Women's Fitness",
+        "MMA Conditioning",
+        "Golf Fitness"
+    ],
+    "stepNo" : "3",
+    "placeholder" : "Select what training would you like to do",
+    "createdAt" : ISODate("2023-01-25T11:03:16.236+0000"),
+    "updatedAt" : ISODate("2023-01-25T12:05:53.232+0000"),
+    "__v" : NumberInt(0)
+}

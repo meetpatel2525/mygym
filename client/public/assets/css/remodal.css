@@ -1,0 +1,485 @@
+html.remodal-is-locked {
+  overflow: hidden;
+  -ms-touch-action: none;
+  touch-action: none;
+}
+
+.remodal,
+[data-remodal-id] {
+  display: none;
+}
+
+.remodal-overlay {
+  position: fixed;
+  z-index: 9999;
+  top: -5000px;
+  right: -5000px;
+  bottom: -5000px;
+  left: -5000px;
+  display: none;
+}
+
+.remodal-wrapper {
+  position: fixed;
+  z-index: 10000;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+  overflow: auto;
+  text-align: center;
+  -webkit-overflow-scrolling: touch;
+}
+
+.remodal-wrapper:after {
+  display: inline-block;
+  height: 100%;
+  margin-left: -0.05em;
+  content: "";
+}
+
+.remodal-overlay,
+.remodal-wrapper {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.remodal {
+  position: relative;
+  outline: none;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+.remodal-is-initialized {
+  display: inline-block;
+}
+
+.remodal-bg.remodal-is-opening,
+.remodal-bg.remodal-is-opened {
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.remodal-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.remodal-overlay.remodal-is-opening,
+.remodal-overlay.remodal-is-closing {
+  -webkit-animation-duration: 0.3s;
+  animation-duration: 0.3s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.remodal-overlay.remodal-is-opening {
+  -webkit-animation-name: remodal-overlay-opening-keyframes;
+  animation-name: remodal-overlay-opening-keyframes;
+}
+
+.remodal-overlay.remodal-is-closing {
+  -webkit-animation-name: remodal-overlay-closing-keyframes;
+  animation-name: remodal-overlay-closing-keyframes;
+}
+
+.remodal-wrapper {
+  padding: 10px 10px 0;
+  backdrop-filter: blur(5px);
+}
+
+.remodal {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 60px 30px;
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  color: #312E37;
+  background: #FFFFFF;
+  border-radius: 20px;
+  text-align: center;
+  overflow: hidden;
+}
+
+/*13-12-2022 start*/
+.remodal h3 {
+  font-family: 'Alegreya Sans';
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 42px;
+  color: #312E37;
+  padding: 30px 0;
+}
+
+.remodal h3 a {
+  color: #0BC7B6;
+  display: block;
+}
+
+/*13-12-2022 end*/
+.remodal::before {
+  content: "";
+  position: absolute;
+  right: -70px;
+  top: -60px;
+  width: 240px;
+  height: 240px;
+  background: rgba(130, 207, 200, 0.3);
+  border-radius: 50%;
+}
+
+.remodal button.verify {
+  margin: 0 auto;
+  padding: 10px 20px;
+  width: auto;
+  height: 44px;
+  background: #0BC7B6;
+  border: none;
+  border-radius: 8px;
+  font-family: 'AndesRoundedW03-Book';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  cursor: pointer;
+  display: block;
+}
+
+/*13-12-2022 start*/
+.remodal button.wrong {
+  margin: 0 auto;
+  padding: 0;
+  width: auto;
+  height: 44px;
+  background: none;
+  border: none;
+  border-radius: 0px;
+  font-family: 'AndesRoundedW03-Book';
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #FF0000;
+  text-decoration: underline;
+  cursor: pointer;
+  display: block;
+}
+
+/*13-12-2022 end*/
+.remodal h4 {
+  font-family: "Andes Rounded W03 Bold";
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 40px;
+  color: #312E37;
+  padding: 0 0 30px 0;
+}
+
+.remodal.remodal-is-opening,
+.remodal.remodal-is-closing {
+  -webkit-animation-duration: 0.3s;
+  animation-duration: 0.3s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.remodal.remodal-is-opening {
+  -webkit-animation-name: remodal-opening-keyframes;
+  animation-name: remodal-opening-keyframes;
+}
+
+.remodal.remodal-is-closing {
+  -webkit-animation-name: remodal-closing-keyframes;
+  animation-name: remodal-closing-keyframes;
+}
+
+.remodal,
+.remodal-wrapper:after {
+  vertical-align: middle;
+}
+
+.remodal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 9999;
+  display: block;
+  overflow: visible;
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+  text-decoration: none;
+  color: #272326;
+  border: 0;
+  outline: 0;
+  background: none;
+  border-radius: 50%;
+}
+
+.remodal-close:hover,
+.remodal-close:focus {
+  color: #2b2e38;
+}
+
+.remodal-close:before {
+  font-family: Arial, "Helvetica CY", "Nimbus Sans L", sans-serif !important;
+  font-size: 30px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 30px;
+  content: "\00d7";
+  text-align: center;
+}
+
+.remodal-confirm,
+.remodal-cancel {
+  font: inherit;
+  display: inline-block;
+  overflow: visible;
+  min-width: 110px;
+  margin: 0;
+  padding: 12px 0;
+  cursor: pointer;
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  border: 0;
+  outline: 0;
+}
+
+.remodal-confirm {
+  color: #fff;
+  background: #81c784;
+}
+
+.remodal-confirm:hover,
+.remodal-confirm:focus {
+  background: #66bb6a;
+}
+
+.remodal-cancel {
+  color: #fff;
+  background: #e57373;
+}
+
+.remodal-cancel:hover,
+.remodal-cancel:focus {
+  background: #ef5350;
+}
+
+.remodal-confirm::-moz-focus-inner,
+.remodal-cancel::-moz-focus-inner,
+.remodal-close::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+@-webkit-keyframes remodal-opening-keyframes {
+  from {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: none;
+    transform: none;
+    opacity: 1;
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+}
+
+@keyframes remodal-opening-keyframes {
+  from {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: none;
+    transform: none;
+    opacity: 1;
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+}
+
+@-webkit-keyframes remodal-closing-keyframes {
+  from {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+    opacity: 0;
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+}
+
+@keyframes remodal-closing-keyframes {
+  from {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+    opacity: 0;
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+}
+
+@-webkit-keyframes remodal-overlay-opening-keyframes {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes remodal-overlay-opening-keyframes {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes remodal-overlay-closing-keyframes {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes remodal-overlay-closing-keyframes {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+@media only screen and (min-width: 641px) {
+  .remodal {
+    max-width: 600px;
+  }
+
+  .remodal-map {
+    max-width: 1120px;
+    padding: 30px 50px 40px 50px !important;
+  }
+
+  .remodal-map::before {
+    display: none;
+  }
+
+  .remodal-trainer {
+    max-width: 800px;
+    padding: 0 !important;
+    text-align: left;
+  }
+
+  .remodal-trainer::before {
+    display: none;
+  }
+
+  .remodal-trainer .remodal-close {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+  }
+}
+
+.lt-ie9 .remodal-overlay {
+  background: #000000;
+}
+
+.lt-ie9 .remodal {
+  width: 600px;
+}
+
+.remodal-map .remodal-close:before {
+  font-size: 50px;
+}
+
+.remodal-map .remodal-close {
+  top: 35px;
+  right: 35px;
+}
+
+@media only screen and (max-width:760px) {
+  .remodal h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .remodal p img {
+    width: 100px;
+  }
+
+  .remodal-map::before {
+    display: none;
+  }
+
+  .remodal-trainer {
+    max-width: 800px;
+    padding: 0 !important;
+    text-align: center;
+  }
+
+  .remodal-trainer .remodal-close {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+  }
+
+  .remodal-trainer::before {
+    display: none;
+  }
+
+  .remodal-trainer .trainer-profile-picture {
+    margin: -130px auto 0 auto;
+  }
+
+  .remodal-trainer .trainer-content p {
+    font-size: 18px;
+    line-height: 24px;
+    padding: 5px 0;
+  }
+
+  .text-right {
+    text-align: center;
+  }
+
+  .remodal-trainer .trainer-content {
+    padding: 10px;
+  }
+}

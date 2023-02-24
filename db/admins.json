@@ -1,0 +1,6 @@
+{
+    "_id" : ObjectId("63521d0a3640d583d04bd659"),
+    "email" : "admin@gmail.com",
+    "password" : "$2a$10$YTjjbGXBrk8XisM5bUCYYO82ubpR8xaPI/xSdoz69R70SNaQt/WiW",
+    "__v" : NumberInt(0)
+}

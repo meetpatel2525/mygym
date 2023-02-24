@@ -1,0 +1,135 @@
+{
+    "_id" : ObjectId("63722852d5561062c89e1136"),
+    "User_id" : ObjectId("6350ff3d50ea5ffe04bb514d"),
+    "email" : "sam@gmail.com",
+    "gymName" : "smartfitness",
+    "gymAddress" : "motavaracha,surat",
+    "DateofBooking" : "2022-10-19",
+    "ReviewTypes" : [
+        {
+            "Overall" : NumberInt(4)
+        },
+        {
+            "Pricing" : NumberInt(5)
+        },
+        {
+            "Equipment" : NumberInt(2)
+        },
+        {
+            "Facilities" : NumberInt(3)
+        },
+        {
+            "Location" : NumberInt(4)
+        },
+        {
+            "Cleanliness" : NumberInt(3)
+        },
+        {
+            "Ease_of_Access" : NumberInt(4)
+        }
+    ],
+    "username" : "vimal jain",
+    "feedback" : "its a good gym Overall",
+    "createdAt" : ISODate("2022-11-14T11:36:50.731+0000"),
+    "updatedAt" : ISODate("2022-11-14T11:36:50.731+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63722991d5561062c89e1138"),
+    "User_id" : ObjectId("6350ff3d50ea5ffe04bb514d"),
+    "email" : "sayog@gmail.com",
+    "gymName" : "smartfitness",
+    "gymAddress" : "motavaracha,surat",
+    "DateofBooking" : "2022-10-19",
+    "ReviewTypes" : [
+        {
+            "Overall" : NumberInt(3)
+        },
+        {
+            "Pricing" : NumberInt(4)
+        },
+        {
+            "Equipment" : NumberInt(3)
+        },
+        {
+            "Facilities" : NumberInt(4)
+        },
+        {
+            "Location" : NumberInt(2)
+        },
+        {
+            "Cleanliness" : NumberInt(5)
+        },
+        {
+            "Ease_of_Access" : NumberInt(5)
+        }
+    ],
+    "username" : "sayog",
+    "feedback" : " good facility and good Cleanliness ",
+    "createdAt" : ISODate("2022-11-14T11:42:09.643+0000"),
+    "updatedAt" : ISODate("2022-11-14T11:42:09.643+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63722abfd5561062c89e113a"),
+    "User_id" : ObjectId("6360b20a23720559b72a1ba2"),
+    "email" : "viralkumar.smarttechnica@gmail.com",
+    "gymName" : "smartfitness",
+    "gymAddress" : "motavaracha,surat",
+    "DateofBooking" : "2022-10-19",
+    "ReviewTypes" : [
+        {
+            "Overall" : NumberInt(4)
+        },
+        {
+            "Pricing" : NumberInt(3)
+        },
+        {
+            "Equipment" : NumberInt(5)
+        },
+        {
+            "Facilities" : NumberInt(5)
+        },
+        {
+            "Location" : NumberInt(4)
+        },
+        {
+            "Cleanliness" : NumberInt(3)
+        },
+        {
+            "Ease_of_Access" : NumberInt(3)
+        }
+    ],
+    "username" : "sayog",
+    "feedback" : "overall its a greate gym\n",
+    "createdAt" : ISODate("2022-11-14T11:47:11.940+0000"),
+    "updatedAt" : ISODate("2022-11-14T11:47:11.940+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63722dd8d5561062c89e1188"),
+    "User_id" : ObjectId("6360b20a23720559b92a1ba2"),
+    "email" : "dimil.smarttechnica@gmail.com",
+    "gymName" : "smartfitness",
+    "gymAddress" : "motavaracha,surat",
+    "DateofBooking" : "2022-10-19",
+    "ReviewTypes" : [
+        {
+            "Pricing" : NumberInt(3)
+        },
+        {
+            "Equipment" : NumberInt(5)
+        },
+        {
+            "Cleanliness" : NumberInt(3)
+        },
+        {
+            "Ease_of_Access" : NumberInt(3)
+        }
+    ],
+    "username" : "dimil",
+    "feedback" : " Pricing is really high ",
+    "createdAt" : ISODate("2022-11-14T12:00:24.430+0000"),
+    "updatedAt" : ISODate("2022-11-14T12:00:24.430+0000"),
+    "__v" : NumberInt(0)
+}

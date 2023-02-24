@@ -1,0 +1,66 @@
+{
+    "_id" : ObjectId("636cc9ee7bffd3c22423a0ef"),
+    "gymowner_id" : ObjectId("6350ddbc043de9683f7a5f59"),
+    "gymName" : "divyesh",
+    "gymCity" : "ahemdabad",
+    "gymimagesURL" : [
+        "1668073965964_750A0183-1024x732.jpg",
+        "1668073965977_20220120-gyms-reopening-ontario.webp",
+        "1668073965981_Mont-Gym-Small-7-335x335.jpg"
+    ],
+    "gymAccessimagesURL" : [
+        "1668073965981_750A0183-1024x732.jpg"
+    ],
+    "gymAddress" : "manekchok,ahemdabad",
+    "gymOwner" : "divyesh gohil",
+    "gymOwnerEmail" : "divyeshpatel@gmail.com",
+    "accessInstruct" : "you need to pay the fees",
+    "gymOwnerContect" : 7654889990.0,
+    "refresh_token" : "1//0g5mAvYTIm_7ZCgYIARAAGBASNwF-L9Ir_DnyCWkOqJ-6SO-TaoWy9PuS8Dj8aAuU3n51aYGjuk3krhKTLC0eCRerfWF3YYiZoqM",
+    "token" : false,
+    "gymOperatingDays" : [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ],
+    "gymOperatingHours" : NumberInt(18),
+    "gymFacilities" : [
+        "Security Camera",
+        "Towel",
+        "Weighing",
+        "Shower",
+        "Water Cooler",
+        "Trash Bin"
+    ],
+    "gymInformation" : "\"world best gym you can be fit here and be healthy and enjoy yourself\"\n",
+    "closestMetroStation" : " ahemdabad metro",
+    "gymRuls" : [
+        "No Photography",
+        "No Smoking",
+        "No Eating",
+        "Women Only"
+    ],
+    "Imgbuilding" : [
+
+    ],
+    "gymOpenTime" : "07:00",
+    "gymCloseTime" : "22:30",
+    "gymEquipment" : [
+        "Training bench",
+        "Dumbbell set",
+        "Cable machine",
+        "Massage bed",
+        "Yoga mat",
+        "Yoga block",
+        "TRX",
+        "Stationary Bicycle"
+    ],
+    "gymBookingPrice" : NumberInt(500),
+    "gymStatus" : false,
+    "createdAt" : ISODate("2022-11-10T09:52:46.253+0000"),
+    "updatedAt" : ISODate("2022-11-10T09:52:46.253+0000"),
+    "__v" : NumberInt(0)
+}
